@@ -1,0 +1,16 @@
+body{
+    background-color: purple;
+
+}
+
+h1{
+    text-align: center;
+    color: white;
+}
+
+p{
+    padding: 2em;
+    margin: auto;
+    text-align: justify;
+    color: wheat
+}
